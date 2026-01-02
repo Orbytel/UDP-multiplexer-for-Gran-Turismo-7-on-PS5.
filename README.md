@@ -215,6 +215,13 @@ gt7proxy.exe --listen-port 20888 --ps5-ip 192.168.0.153
 
 ```
 ---
+###Always start in this order:
+1️⃣ Python multiplexer
+Copy code
+2️⃣ GT7Proxy
+3️⃣ SimTools
+4️⃣ SimHub
+5️⃣ Start GT7 on PS5
 
 ## Known behavior & quirks
 
