@@ -200,14 +200,16 @@ PS5_IP = None
 
 ---
 
-## Step 4 – Run the script. You can either do this by double clicking the python script in Windows, or via Command Prompt (press Win+R buttons on your keyboard, then type 'cmd' into the run box). In the black window that opens (command prompt), run the python script using: 
+## Step 4 – Run the script. 
+
+You can either do this by double-clicking the Python script in Windows or via the Command Prompt (press the Win+R buttons on your keyboard, then type 'cmd' into the Run box). In the black window that opens (command prompt), run the Python script using: 
 
 ```cmd
 python gt7_multiplexer.py
 ```
 Note: you will need to either navigate to the directory where the gt7_multiplexer.py is located first, or include the full path in the command (i.e. python c:\gt7multiplexer\gt7_multiplexer.py)
 
-Once the script is running, you may receive a popup from Windows Firewall requesting authorisation for the script. Click allow to continue. 
+Once the script is running, you may receive a pop-up from Windows Firewall requesting authorisation for the script. Click Allow to continue. 
 
 Leave the window open.
 
@@ -216,12 +218,12 @@ Leave the window open.
 ## Step 5 – Configure receiving software
 
 **Always start in this order:**
-1️⃣ Python multiplexer
+1️. Python multiplexer
 Copy code
-2️⃣ GT7Proxy
-3️⃣ SimTools
-4️⃣ SimHub
-5️⃣ Start GT7 on PS5
+2️. GT7Proxy
+3️. SimTools
+4️. SimHub
+5️. Start GT7 on PS5
 
 **GT7 Proxy**
 - Use port **20888**
