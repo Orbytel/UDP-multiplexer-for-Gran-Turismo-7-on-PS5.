@@ -95,7 +95,7 @@ By forwarding the packets unchanged it prevents those issues from occurring.
 
 ---
 
-** Step 2 – Create the script**
+**Step 2 – Create the script**
 
 1. Create a new file named:
 
@@ -164,7 +164,7 @@ while True:
 
 ---
 
-** 🛠️ Step 3 – Configure the script **
+**Step 3 – Configure the script**
 
 ### DESTINATIONS
 
@@ -223,7 +223,7 @@ Copy code
 4️⃣ SimHub
 5️⃣ Start GT7 on PS5
 
-** GT7 Proxy **
+**GT7 Proxy**
 - Use port **20888**
 - Do NOT bind directly to 33740
 - Run the exe using the following command (changing the ps5-ip to the IP address of your PS5):
@@ -231,10 +231,10 @@ Copy code
 gt7proxy.exe --listen-port 20888 --ps5-ip 192.168.0.153
 ```
 
-** SimTools **
+**SimTools**
 - GT7 plugin enabled
   
-** SimHub **
+**SimHub**
 - Game: GT7
 - UDP port: **20777**
 - Live mode enabled
